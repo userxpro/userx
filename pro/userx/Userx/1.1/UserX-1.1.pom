@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>pro.userx</groupId>
   <artifactId>UserX</artifactId>
-  <version>1</version>
+  <version>1.1</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
