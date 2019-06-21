@@ -1,1 +1,1 @@
-UserX <version>${version}</version>
+UserX <version>2.4.5</version>
