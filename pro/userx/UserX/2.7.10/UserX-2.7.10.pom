@@ -6,4 +6,12 @@
   <artifactId>UserX</artifactId>
   <version>2.7.10</version>
   <packaging>aar</packaging>
+  <dependencies>
+    <dependency>
+      <groupId>androidx.work</groupId>
+      <artifactId>work-runtime</artifactId>
+      <version>2.3.4</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
 </project>
