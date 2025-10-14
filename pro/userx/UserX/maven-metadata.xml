@@ -3,8 +3,8 @@
   <groupId>pro.userx</groupId>
   <artifactId>UserX</artifactId>
   <versioning>
-    <latest>4.2.14</latest>
-    <release>4.2.14</release>
+    <latest>4.2.19.compose</latest>
+    <release>4.2.19.compose</release>
     <versions>
       <version>1.1</version>
       <version>1.4</version>
@@ -231,7 +231,8 @@
       <version>4.2.18.compose</version>
       <version>4.2.13</version>
       <version>4.2.14</version>
+      <version>4.2.19.compose</version>
     </versions>
-    <lastUpdated>20250911063918</lastUpdated>
+    <lastUpdated>20251014132644</lastUpdated>
   </versioning>
 </metadata>
